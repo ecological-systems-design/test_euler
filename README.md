@@ -15,7 +15,7 @@ the output should read
 
 now clone this git repository into your home directory by
 
-*git clone git@github.com:ecological-systems-design/test_euler.git*
+*git clone https://github.com/ecological-systems-design/test_euler.git*
 
 
 now deploy the code on euler
